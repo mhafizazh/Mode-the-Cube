@@ -234,6 +234,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Renderer: {fileID: 187565533}
+  speed: 100
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
